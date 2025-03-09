@@ -2,19 +2,14 @@
 
 namespace App\Models\File;
 
-use App\Models\Base\BaseWithUuid;
 use Illuminate\Database\Eloquent\Model;
-use Tnet\Firebase\Interfaces\HasSocialMediaInterface;
 
 /**
- * @property string uuid
  * @property int id
  * @property string url
- * @property int type_id
  * @property string url_without_extension
  * @property string filename
  * @property string path
- * @property string extension
  * @property string path_without_extension
  * @property string public_path
  * @property string full_path
