@@ -40,6 +40,9 @@ Set up db connection
 # Run migrations
 php artisan migrate
 
+# Link storage
+php artisan storage:link
+
 # Start the app
 php artisan serve
 npm run dev
