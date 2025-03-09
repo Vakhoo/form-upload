@@ -16,7 +16,6 @@ A secure web application for storing PDF/DOCX files with automatic 24-hour expir
 ## Requirements
 
 - PHP 8.2+
-- MySQL 5.7+
 - Laravel 11+
 
 ## Quick Start
